@@ -1,0 +1,14 @@
+{
+    "name": "jankx/phocarolary",
+    "description": "Create photo carousel and gallery for Jankx framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
